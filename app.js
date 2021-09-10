@@ -19,7 +19,6 @@ app.use(cors());
 app.use('/', get)
 app.use('/post', post)
 app.use('/admin', adminGet)
-console.log('watch');
 app.listen(3000)
 
 console.log('web访问：http://127.0.0.1:3000/');
