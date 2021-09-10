@@ -1,0 +1,38 @@
+{
+    "Result": 200,
+    "RtnData": [
+        {
+            "label": "一级 1",
+            "value": 1,
+            "children": [
+                {
+                    "label": "二级 1-1",
+                    "value": 2,
+                    "children": [
+                        {
+                            "label": "三级 1-1-1",
+                            "value": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "一级 2",
+            "value": 4,
+            "children": [
+                {
+                    "label": "二级 2-2",
+                    "value": 5,
+                    "children": [
+                        {
+                            "label": "三级 2-2-2",
+                            "value": 6
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "RtnMsg": "处理成功"
+}

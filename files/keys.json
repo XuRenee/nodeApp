@@ -1,0 +1,12 @@
+{
+    "Result": 200,
+     "RtnData": [
+         {"name":"label1", "code":"table_text1"},
+         {"name":"label2", "code":"table_text2"},
+         {"name":"label3", "code":"value3"},
+         {"name":"label4", "code":"value4"},
+         {"name":"label5", "code":"value5"},
+         {"name":"label6", "code":"value6"}
+     ],
+    "RtnMsg": "处理成功"
+  }
